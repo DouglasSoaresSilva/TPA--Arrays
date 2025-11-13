@@ -1,4 +1,4 @@
-<img width="169" height="28" alt="Arrays sort" src="https://github.com/user-attachments/assets/d3e0d03f-3876-4c56-a1f2-cefe59e02644" /><h1>Trabalho TPA</h1>
+<h1>Trabalho TPA</h1>
 <h2>Ordenar nomes</h2>
 <p>Este código cria vetor de nomes String[]</p> 
 <img width="869" height="51" alt="image" src="https://github.com/user-attachments/assets/7e17e8bc-4cde-4091-945a-fbaccdbfee15" />
@@ -91,4 +91,5 @@ Se o resto for 0 (== 0), o número é par.Se o número é par ele é guardado no
 <br>
 <br>
 <p>Deploy</p>
-<img width="311" height="448" alt="image" src=""/>aaa
+<img width="311" height="448" alt="image" src="https://github.com/user-attachments/assets/4078f562-68e9-48b5-b900-e238dcda8fe7" />
+"/>aaa
