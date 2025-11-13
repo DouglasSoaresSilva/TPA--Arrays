@@ -12,7 +12,7 @@
 <br>
 <p>"Nomes em ordem crescente (A-Z):"
 é o deploy em si</p>
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1e950092-2ad9-404e-89cc-70b1d4ffe345" />
+<img width="264" height="470" alt="image" src="https://github.com/user-attachments/assets/1e950092-2ad9-404e-89cc-70b1d4ffe345" />
 
 
 <p>Este é um laço de repetição do tipo for-each, usado para percorrer todos os elementos do array nomes.</p>
@@ -73,14 +73,14 @@ Se o resto for 0 (== 0), o número é par.Se o número é par ele é guardado no
 <p>i++ → aumenta i a cada volta do laço.</p>
 
 <p>Exemplo</p>
-<p>Se o usuário digitou 10 números e 4 deles são pares,
-então contadorPares = 4, e o laço rodará 4 vezes.</p>
+<p>Se o usuário digitou 10 números e 4 deles são pares, então contadorPares = 4, e o laço rodará 4 vezes.</p>
 <br>
 <p>Mostra na tela o número par armazenado na posição i do vetor pares.</p>
 <br>
 <br>
 <p>Deploy</p>
-<img width="264" height="470" alt="image" src="https://github.com/user-attachments/assets/e6e0dc37-fe01-4e3b-af7c-e96c9c398f7a" />
+<img width="264" height="470" alt="image" src="<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/78b90284-dde4-4223-ad69-966be7629459" />
+" />
 
 <h2>Números ímpares</h2>
 <p>A única diferença desse código para o de números pares é o verficador de número ímpar</p>
