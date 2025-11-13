@@ -1,10 +1,10 @@
 <h1>Trabalho TPA</h1>
 <h2>Ordenar nomes</h2>
 <p>Este código cria vetor de nomes String[]</p> 
-<img width="869" height="51" alt="image" src="https://github.com/user-attachments/assets/05325f29-b095-4f0a-93bd-2b2b3bc587da" />
+<img width="869" height="51" alt="image" src="" />
 
 <p>Usamos o método Arrays.sort() para organizar os nomes em ordem alfabética</p>
-<img width="244" height="42" alt="image" src="https://github.com/user-attachments/assets/82e6f89f-bc32-4f9d-ae04-0b1e305fad75" />
+<img width="244" height="42" alt="image" src="https://github.com/user-attachments/assets/7e17e8bc-4cde-4091-945a-fbaccdbfee15" />
 
 <p>Exibe uma mensagem no console para o usuário.</p>
  <img width="681" height="40" alt="image" src="https://github.com/user-attachments/assets/d0318a2c-b995-4942-a868-da2a8ef5906f" />
