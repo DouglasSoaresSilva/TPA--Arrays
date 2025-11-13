@@ -12,7 +12,8 @@
 <br>
 <p>Serve apenas para indicar o que será mostrado a seguir.</p>
 <br>
-<p>"Nomes em ordem crescente (A-Z):" é um texto  que aparece na tela.</p>
+<p>"Nomes em ordem crescente (A-Z):"
+é um texto  que aparece na tela.</p>
 
 <img width="364" height="110" alt="image" src="https://github.com/user-attachments/assets/c0f5f1a1-0ede-46a1-adde-c5a44010cc64" />
 
