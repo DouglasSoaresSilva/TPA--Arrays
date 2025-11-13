@@ -84,7 +84,7 @@ Se o resto for 0 (== 0), o número é par.Se o número é par ele é guardado no
 " />
 
 <h2>Números ímpares</h2>
-<p>A única diferença desse código para o de números pares é o verficador de número ímpar</p>
+<p>Esta é única diferença deste código para o de números pares é o verficador de número ímpar:</p>
 <img width="536" height="121" alt="image" src="https://github.com/user-attachments/assets/581e8296-69eb-452f-b9ab-578d866861c0" />
 
 <p> o verificador de número ímpares é diferente que faz só mostrar números ímpares no deploy, mas a lógica é a mesma</p>
