@@ -14,9 +14,7 @@
 <br>
 <p>"Nomes em ordem crescente (A-Z):"
 é um texto  que aparece na tela.</p>
-<img width="364" height="110" alt="image" src="https://github.com/user-attachments/assets/c0f5f1a1-0ede-46a1-adde-c5a44010cc64" />
-
-<img width="364" height="110" alt="image" src="https://github.com/user-attachments/assets/c0f5f1a1-0ede-46a1-adde-c5a44010cc64" />
+<img width="279" height="304" alt="Deploy" src="https://github.com/user-attachments/assets/7762d9ed-c9e8-4172-a259-f35e1309037e" />
 
 <p>Este é um laço de repetição do tipo for-each, usado para percorrer todos os elementos do array nomes.</p>
 <br>
