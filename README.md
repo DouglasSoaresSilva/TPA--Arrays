@@ -80,12 +80,12 @@ Se o resto for 0 (== 0), o número é par.Se o número é par ele é guardado no
 <br>
 <br>
 <p>Deploy</p>
-<img width="264" height="470" alt="image" src="<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/78b90284-dde4-4223-ad69-966be7629459" />
+<img width="264" height="470" alt="image" src="github.com/user-attachments/assets/78b90284-dde4-4223-ad69-966be7629459"/>
 " />
 
 <h2>Números ímpares</h2>
 <p>Esta é única diferença deste código para o de números pares é o verficador de número ímpar:</p>
-<img width="536" height="121" alt="image" src="https://github.com/user-attachments/assets/581e8296-69eb-452f-b9ab-578d866861c0" />
+<img width="536" height="121" alt="image" src="https://github.com/user-attachments/assets/581e8296-69eb-452f-b9ab-578d866861c0"/>
 
 <p> o verificador de número ímpares é diferente que faz só mostrar números ímpares no deploy, mas a lógica é a mesma</p>
 <br>
