@@ -10,7 +10,7 @@
  <img width="681" height="40" alt="image" src="https://github.com/user-attachments/assets/d0318a2c-b995-4942-a868-da2a8ef5906f" />
 
 <br>
-<p>Serve apenas para indicar o que será mostrado a seguir.</p>
+<p>Mensagem mostrada antes dos nomes serem exibidos para indicar o que o programa fará.</p>
 <br>
 <p>"Nomes em ordem crescente (A-Z):"
 é um texto  que aparece na tela.</p>
