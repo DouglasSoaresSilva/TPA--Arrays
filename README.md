@@ -4,7 +4,7 @@
 <img width="869" height="51" alt="image" src="" />
 
 <p>Usamos o método Arrays.sort() para organizar os nomes em ordem alfabética</p>
-<img width="244" height="42" alt="image" src="https://github.com/user-attachments/assets/7e17e8bc-4cde-4091-945a-fbaccdbfee15" />
+<img width="244" height="420" alt="image" src="https://github.com/user-attachments/assets/7e17e8bc-4cde-4091-945a-fbaccdbfee15" />
 
 <p>Exibe uma mensagem no console para o usuário.</p>
  <img width="681" height="40" alt="image" src="https://github.com/user-attachments/assets/d0318a2c-b995-4942-a868-da2a8ef5906f" />
