@@ -90,4 +90,4 @@ Se o resto for 0 (== 0), o número é par.Se o número é par ele é guardado no
 <br>
 <br>
 <p>Deploy</p>
-<img width="311" height="448" alt="image" src="https://github.com/user-attachments/assets/6d032df0-a956-4507-9b16-f1cab40ccc6d" />
+<img width="311" height="448" alt="image" src="https://github.com/user-attachments/assets/b9b894b8-6a36-4aeb-b608-efc389364a2e"/>
