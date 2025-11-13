@@ -35,7 +35,8 @@
 <br>
 <br>
 <p>Deploy</p>
-<img width="404" height="370" alt="image" src="https://github.com/user-attachments/assets/22a16a77-bc58-4a2f-a93b-9790b022b579" />
+<img width="404" height="370" alt="image" src="https://github.com/user-attachments/assets/07105a44-9e9a-4724-aa41-6097d0fec06a" />
+" />
 <br>
 <br>
 <h2>Números pares e ímpares</h2>
@@ -90,4 +91,4 @@ Se o resto for 0 (== 0), o número é par.Se o número é par ele é guardado no
 <br>
 <br>
 <p>Deploy</p>
-<img width="311" height="448" alt="image" src="https://github.com/user-attachments/assets/b9b894b8-6a36-4aeb-b608-efc389364a2e"/>
+<img width="311" height="448" alt="image" src=""/>aaa
