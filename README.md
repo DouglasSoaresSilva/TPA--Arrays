@@ -2,10 +2,8 @@
 <h2>Ordenar nomes</h2>
 <p>Este código cria vetor de nomes String[]</p> 
 <img width="869" height="51" alt="image" src="https://github.com/user-attachments/assets/7e17e8bc-4cde-4091-945a-fbaccdbfee15" />
-
-<p>Usamos o método Arrays.sort() para organizar os nomes em ordem alfabética</p>
+<p>O método Arrays.sort() serve para organizar os nomes em ordem alfabética</p>
 <img width="169" height="28" alt="Arrays sort" src="https://github.com/user-attachments/assets/d8eb8f3b-d874-40df-8b7b-582c0fbea109" />
-
 <p>Exibe uma mensagem no console para o usuário.</p>
  <img width="681" height="40" alt="image" src="https://github.com/user-attachments/assets/d0318a2c-b995-4942-a868-da2a8ef5906f" />
 
@@ -13,8 +11,9 @@
 <p>Mensagem mostrada antes dos nomes serem exibidos para indicar o que o programa fará.</p>
 <br>
 <p>"Nomes em ordem crescente (A-Z):"
-é um texto  que aparece na tela.</p>
-<img width="279" height="304" alt="Deploy" src="https://github.com/user-attachments/assets/7762d9ed-c9e8-4172-a259-f35e1309037e" />
+é o deploy em si</p>
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1e950092-2ad9-404e-89cc-70b1d4ffe345" />
+
 
 <p>Este é um laço de repetição do tipo for-each, usado para percorrer todos os elementos do array nomes.</p>
 <br>
