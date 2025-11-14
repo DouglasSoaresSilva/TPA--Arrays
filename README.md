@@ -80,8 +80,7 @@ Se o resto for 0 (== 0), o número é par.Se o número é par ele é guardado no
 <br>
 <br>
 <p>Deploy</p>
-<img width="264" height="470" alt="image" src="github.com/user-attachments/assets/78b90284-dde4-4223-ad69-966be7629459"/>
-" />
+<img width="264" height="470" alt="image" src="https://github.com/user-attachments/assets/228d5301-bdf0-4857-b5c2-c8bf26dbb474"/>
 
 <h2>Números ímpares</h2>
 <p>Esta é única diferença deste código para o de números pares é o verficador de número ímpar:</p>
@@ -92,4 +91,4 @@ Se o resto for 0 (== 0), o número é par.Se o número é par ele é guardado no
 <br>
 <p>Deploy</p>
 <img width="311" height="448" alt="image" src="https://github.com/user-attachments/assets/4078f562-68e9-48b5-b900-e238dcda8fe7" />
-"/>aaa
+"/>
